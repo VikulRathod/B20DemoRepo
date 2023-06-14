@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace First
 {
-    public class Calculator
+    public partial class Calculator
     {
         public void Add(int a, int b)
         {
