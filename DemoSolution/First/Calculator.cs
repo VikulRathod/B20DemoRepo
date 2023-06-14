@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace First
 {
-    public class Calculator
+    public class Calsy
     {
+        //I,m Added New Linw Here 
         public void Add(int a, int b)
         {
             Console.WriteLine($"Addition: {a} + {b} = {a + b}");
